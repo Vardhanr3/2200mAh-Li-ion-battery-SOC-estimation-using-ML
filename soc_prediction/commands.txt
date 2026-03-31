@@ -1,0 +1,4 @@
+Open Terminal and Run:
+cd /home/socpi4b/Desktop/major_project/soc_prediction
+source venv/bin/activate
+python live_predict_soc.py

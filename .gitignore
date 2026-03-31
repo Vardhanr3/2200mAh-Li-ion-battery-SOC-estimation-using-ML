@@ -1,0 +1,23 @@
+venv/
+__pycache__/
+*.pyc
+*.h5
+*.pkl
+*.so
+*.tflite
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ML models (optional if large)
+*.h5
+*.pkl
+
+# OS files
+.DS_Store
+* .tflite
